@@ -1,0 +1,32 @@
+{
+  "name": "steam-login",
+  "description": "Simple Connect / Express Steam authentication library.",
+  "author": "Andrew Rogers <anrogers529@gmail.com>",
+  "version": "0.1.6",
+  "keywords": [
+    "authentication",
+    "login",
+    "steam",
+    "user"
+  ],
+  "repository": "cpancake/steam-login",
+  "license": "MIT",
+  "homepage": "http://github.com/cpancake/steam-login",
+  "dependencies": {
+    "bluebird": "^2.11.0",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "discord.js": "^11.2.1",
+    "ejs": "^2.5.7",
+    "express": "^4.15.2",
+    "express-validator": "^4.2.1",
+    "http": "0.0.0",
+    "openid": "^2.0.6",
+    "request-promise": "^0.4.3",
+    "socket.io": "^2.0.3",
+    "socket.io-client": "^2.0.3"
+  },
+  "devDependencies": {
+    "express-session": "^1.15.6"
+  }
+}
